@@ -1,0 +1,166 @@
+
+---Downloaded files---
+The import files for: Hostim RTL were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/fizika.arabaeva.kg
+Data file = C:\xampp\htdocs\fizika.arabaeva.kg/wp-content/uploads/2024/04/demo-content-import-file_2024-04-21__10-35-18.xml
+Widget file = C:\xampp\htdocs\fizika.arabaeva.kg/wp-content/themes/hostim/inc/demos/all/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Main : 
+
+Поиск - No Title - Imported
+Recent Posts (Theme) - Recent News - Imported
+Рубрики - No Title - Imported
+Облако меток - No Title - Imported
+Архивы - No Title - Imported
+Contact Info (Theme) - No Title - Imported
+
+
+
+---ocdi/after_import---
+
